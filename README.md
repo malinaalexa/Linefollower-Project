@@ -35,7 +35,7 @@ In truth, our team assigned values to kp, ki and kd by trial and error, until we
 ## What parts did we need?
 
 1. Arduino Uno
-2. Zip-ties (very importand an lifesaving)
+2. Zip-ties (very importand and lifesaving)
 3. Powersource (in our case, a LiPo battery, or two if you worry about blowing up one of them)
 4. 2 rubber wheels
 5. QTR-8A reflectance sensor (detects how much infrared light is reflected from a nearby surface)
